@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/pguimaraes
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://thisispedro.com
+  * I am pguimaraes (https://keybase.io/pguimaraes) on keybase.
+  * I have a public key ASAILGKHwSDvo55hr0VxMxu3hFZpPenyGuEtXkcRZ_qMTwo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120082c6287c120efa39e61af4571331bb78456693de9f21ae12d5e471167fa8c4f0a",
+            "host": "keybase.io",
+            "kid": "0120082c6287c120efa39e61af4571331bb78456693de9f21ae12d5e471167fa8c4f0a",
+            "uid": "f50a31fc421b264303d40d3be85cc819",
+            "username": "pguimaraes"
+        },
+        "service": {
+            "hostname": "thisispedro.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.17"
+    },
+    "ctime": 1475701653,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1475701641,
+        "hash": "530478379aba7810658ef8452832f4011e5bf49dc108975fc824909dd528c37451836a5813c8389baf444b534dcda85815b4124142f168ee15172967b7093a7b",
+        "seqno": 665712
+    },
+    "prev": "bf3aa1c7146136db14c1d1eb385a2c589989727e508c764deb5f1ac66e4c8897",
+    "seqno": 7,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgCCxih8Eg76OeYa9FcTMbt4RWaT3p8hrhLV5HEWf6jE8Kp3BheWxvYWTFAvl7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMDgyYzYyODdjMTIwZWZhMzllNjFhZjQ1NzEzMzFiYjc4NDU2NjkzZGU5ZjIxYWUxMmQ1ZTQ3MTE2N2ZhOGM0ZjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMDgyYzYyODdjMTIwZWZhMzllNjFhZjQ1NzEzMzFiYjc4NDU2NjkzZGU5ZjIxYWUxMmQ1ZTQ3MTE2N2ZhOGM0ZjBhIiwidWlkIjoiZjUwYTMxZmM0MjFiMjY0MzAzZDQwZDNiZTg1Y2M4MTkiLCJ1c2VybmFtZSI6InBndWltYXJhZXMifSwic2VydmljZSI6eyJob3N0bmFtZSI6InRoaXNpc3BlZHJvLmNvbSIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjE3In0sImN0aW1lIjoxNDc1NzAxNjUzLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0NzU3MDE2NDEsImhhc2giOiI1MzA0NzgzNzlhYmE3ODEwNjU4ZWY4NDUyODMyZjQwMTFlNWJmNDlkYzEwODk3NWZjODI0OTA5ZGQ1MjhjMzc0NTE4MzZhNTgxM2M4Mzg5YmFmNDQ0YjUzNGRjZGE4NTgxNWI0MTI0MTQyZjE2OGVlMTUxNzI5NjdiNzA5M2E3YiIsInNlcW5vIjo2NjU3MTJ9LCJwcmV2IjoiYmYzYWExYzcxNDYxMzZkYjE0YzFkMWViMzg1YTJjNTg5OTg5NzI3ZTUwOGM3NjRkZWI1ZjFhYzY2ZTRjODg5NyIsInNlcW5vIjo3LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQJaRhHEv/p/pIFsfs72gs+FGlXNtstPXeOJnkg6tZGDwm4/ObUCQdPeGrvwzJLKIr5u41rWheX6Giy54C6KCXweoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCDsgrfFRJQtwXYgtZ3/YYpz6DZi6zxB8NtYAEc0gPAUtqN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/pguimaraes
+
+==================================================================
+
